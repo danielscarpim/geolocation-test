@@ -1,0 +1,87 @@
+:focus {
+  outline-color: transparent;
+  outline-style: none;
+}
+
+.header {
+	padding-top: $global-padding/2;
+	text-transform: uppercase;
+	border-top:5px solid $primary-color;
+	border-bottom:1px solid $medium-gray;
+
+	h1 {
+		color: $dark-gray;
+		color: $primary-color;
+	}
+}
+
+.menu {
+	border-top: 1px solid $medium-gray;
+	border-bottom: 1px solid $medium-gray;
+	padding: $global-padding 0 0;
+	background-color: $light-gray;
+
+	.icon {
+		margin-right: 0.75em;
+	}
+
+	.button-group {
+		border-radius: 2em;
+		overflow: hidden;
+		
+	}
+	.submit {
+		border-radius: 0 2em 2em 0;
+		overflow: hidden;
+		padding-right: 2em;
+		min-width: 140px;
+	}
+	.input {
+		border-radius: 2em 0 0 2em;
+		overflow: hidden;
+		padding-left: 2em;
+	}
+}
+
+.title-location {
+	margin-top: 0.5em;
+}
+
+
+.map-container {
+	height: 300px;
+	@include breakpoint(medium) {
+    height: 500px;
+  }
+}
+#map { height: 100%; };
+
+.location-table {
+	font-size: $small-font-size;
+	thead td {
+		border-bottom: 1px solid $medium-gray;
+	}
+	tbody, thead {
+		border: none;
+	}
+	.field_name{
+		font-weight: bold;
+		cursor: pointer;
+		.icon {
+			color: $dark-gray;
+			margin-left: 0.5em;
+			font-size: 0.8em;
+		}
+		&:hover {
+			color: $primary-color;
+		}
+	}
+}
+
+.footer {
+	background-color: $light-gray;
+	padding: $global-padding 0;
+	border-top: 1px solid $medium-gray;
+	font-size: $small-font-size;
+	text-align: right;
+}

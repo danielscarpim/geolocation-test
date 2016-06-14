@@ -1,0 +1,1327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"api"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"data",
+				"dataService"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"ge",
+				"geolocation"
+			],
+			[
+				"page",
+				"page-container"
+			],
+			[
+				"m",
+				"makeModal"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"list",
+				"listTimeline"
+			],
+			[
+				"Time",
+				"TimelineMax"
+			],
+			[
+				"bo",
+				"body-font-color	 _table.scss"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"c",
+				"currentTarget"
+			],
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"F",
+				"foundation"
+			],
+			[
+				"Pa",
+				"PATHS"
+			],
+			[
+				"s",
+				"small-font-size	 _menu-agenda.scss"
+			],
+			[
+				"status",
+				"status-icon	 _base.scss"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"sli",
+				"slide-out-right	 _base.scss"
+			],
+			[
+				"eve",
+				"event-title	 _lista-eventos.scss"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"light-gray	 _settings.scss"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"fo",
+				"global-font-size	 _settings.scss"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ligh",
+				"light-gray	 _menu-agenda.scss"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"B",
+				"Bronze"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"file",
+				"file-type	 _library.scss"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"dar",
+				"dark-blue	 _left-sidebar.scss"
+			],
+			[
+				"bl",
+				"dark-blue	 _left-sidebar.scss"
+			],
+			[
+				"cou",
+				"courses-list	 _courses-list.scss"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bann",
+				"bannerWidth"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"dele",
+				"deleteActivity"
+			],
+			[
+				"lig",
+				"light-gray	 _recent-activities.scss"
+			],
+			[
+				"pr",
+				"primary-color	 _left-sidebar.scss"
+			],
+			[
+				"light",
+				"light-gray	 _left-sidebar.scss"
+			],
+			[
+				"insc",
+				"Inscrições"
+			],
+			[
+				"ion-",
+				"ion-plus	 _left-sidebar.scss"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pro",
+				"progressBar"
+			],
+			[
+				"cl",
+				"closest"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"sun",
+				"sub-nav-1"
+			],
+			[
+				"sub",
+				"subNavOpen"
+			],
+			[
+				"ha",
+				"has-children"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"p",
+				"primary-color	 _courses-list.scss"
+			],
+			[
+				"th",
+				"thead	 element"
+			],
+			[
+				"tabs",
+				"tabs-content	 app.css"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"left",
+				"left-sidebar	 _left-sidebar.scss"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"com",
+				"compass"
+			],
+			[
+				"activi",
+				"activity-type	 _recent-activities.scss"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"ri",
+				"right-sidebar	 _base.scss"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"footer",
+				"footer-container	 _base.scss"
+			],
+			[
+				"block",
+				"block-content	 app.css"
+			],
+			[
+				"full",
+				"full-width	 _base.scss"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"bui",
+				"buildHtml"
+			],
+			[
+				"ht",
+				"buildHtml"
+			],
+			[
+				"ca",
+				"carouselInit"
+			],
+			[
+				"$lo",
+				"$location	AngularJS"
+			],
+			[
+				"$loca",
+				"$location	AngularJS(DI)"
+			],
+			[
+				"gl",
+				"glyphicon-user	 styles.scss"
+			],
+			[
+				"la",
+				"langSelect"
+			],
+			[
+				"inter",
+				"interFace"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"cu",
+				"currentLanguage"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"json",
+				"json_a"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Locali",
+				"localidade"
+			],
+			[
+				"gra",
+				"gray-lighter	 styles.scss"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ad",
+				"admin_name"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"$r",
+				"$rootScope	AngularJS"
+			],
+			[
+				"lo",
+				"loggedIn"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"get",
+				"getInterfaceText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 6261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 3896,
+				"line_ending": "Windows",
+				"name": "index"
+			}
+		},
+		{
+			"file": "src/assets/scss/components/_base.scss",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 3279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/app.scss",
+			"settings":
+			{
+				"buffer_size": 1286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielscarpim/Desktop/GeoLocation/src/layouts/default.html",
+		"/Users/danielscarpim/Desktop/GeoLocation/src/pages/_index.html",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/danielscarpim/Desktop/GeoLocation/src/assets/js/geolocation.js",
+		"/Users/danielscarpim/Desktop/GeoLocation/src/assets/js/dataService.js",
+		"/Users/danielscarpim/Desktop/GeoLocation/src/styleguide/index.md",
+		"/Users/danielscarpim/Desktop/GeoLocation/index.html",
+		"/Users/danielscarpim/Desktop/GeoLocation/client/assets/js/app.js",
+		"/Users/danielscarpim/Desktop/GeoLocation/client/index.html",
+		"/Users/danielscarpim/Desktop/GeoLocation/GeoLocation.sublime-project",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/menu.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/layouts/default.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_pace.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/gulpfile.js",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_page-header.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/layouts/modal.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/app.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/js/lib/pace.min.js",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/evidencias.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/js/app.js",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/reveal-noticia.html",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/Vagrantfile",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/lista-eventos.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_lista-eventos.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_evento.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_news.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/aluno.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/noticia.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/data/single-news.json",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/noticia.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/data/news.json",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/home.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/content.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/custos.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/evento.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/novo-custo.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_reveal.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/data/events.json",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_base.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/data/month.json",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_calendar.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/_settings.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/data/single-event.json",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/next.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/menu-eventos.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_menu-eventos.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_top-bar.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_menu.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/data/single-event-checked.json",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/partials/menu-agenda.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/treinamento.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/pages/index.html",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/assets/scss/components/_menu-agenda.scss",
+		"/Users/danielscarpim/Desktop/LG app/lg_app/src/helpers/calendar.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/library.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/file.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/dashboard.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/levels-chart.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/dealer.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/area.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/general-chart-stacked.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/user.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/gauge.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_control-panel.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/reports/area.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_right-sidebar.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/trainning-list.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/style.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/training-list.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/pie-chart.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_settings.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/reports/user.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/js/scripts/app.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widget.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_courses-list.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/js/scripts/charts-theme.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/reports/dealers.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_base.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/chart-dealer.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/Gruntfile.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/regional.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/header/header-admin.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/header/header-user.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_library.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_header.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/allusers.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/library/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/library-list.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_user-info.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/library/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/elearning.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/all-users.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/left-sidebar/left-sidebar.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/class-enroll.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/course-enroll.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/recent-activities/recent-activities.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_recent-activities.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_sharepoint.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/recent-course.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/recent-activities/activity.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/head.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/sharepoint/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_banner.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/edit.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/disp.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/cidade.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/new.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_footer.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/dist/admin/dashboard.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/bower.json",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/login.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_login.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/footer.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_vars.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_fonts.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_left-sidebar.scss",
+		"/Users/danielscarpim/Downloads/webfontkit-20150928-111150/stylesheet.css",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_user-header.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/banner.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/dist/pages/master.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/dist/index.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/master.html",
+		"/Users/danielscarpim/Downloads/custom.master",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/sharepoint/default.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/sharepoint/index.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/dist/sharepoint/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\vivaparaiso"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myLocation",
+			"geolocation",
+			",",
+			":",
+			"li",
+			"href=\"#\"",
+			"a",
+			"fi-list",
+			"span",
+			"large",
+			"previous",
+			"$medium-gray",
+			"this",
+			"td",
+			"next",
+			"0",
+			"5",
+			"width",
+			"/Style%20Library",
+			"/style%20library",
+			"/Style%20Library",
+			"$red",
+			"/Style%20Library",
+			"jet",
+			"$light-blue",
+			"light-blue",
+			"oil",
+			"suzukiprobold-webfont",
+			"fonts",
+			"suzukiproheadline-webfont",
+			"suzukiprobold",
+			"modernh-bold",
+			"modernh-light",
+			"admin",
+			"div",
+			"08",
+			"20/11/2015",
+			"start",
+			"');\n",
+			"sub-nav",
+			"sub-nav-2",
+			"sub-nav",
+			"h2",
+			"warning-color",
+			"light-blue",
+			"ionicos",
+			"modernh-bold-webfont",
+			"light",
+			"HelveticaNeueCondensed/HelveticaNeueLTStd-Cn",
+			"light-gray",
+			"language",
+			"fonts",
+			"FrutigerLTStd-Bold",
+			"FrutigerLTStd-Roman",
+			"h1",
+			"title_delete",
+			"adminLogin",
+			"userLogin",
+			"user_starsid",
+			"user_username",
+			"listData",
+			"users",
+			"wscode",
+			"saveStatus",
+			"dlr_id",
+			"locationsids",
+			"dealerscodes",
+			"dealerssids",
+			"key",
+			"ng-class=\"{{key}}\"",
+			"user",
+			"name",
+			"Name",
+			"name",
+			"user",
+			"user_id",
+			"stars",
+			"tD",
+			"td",
+			"th",
+			"container",
+			"modalService",
+			"dealerList",
+			"dealer-list",
+			"dealer",
+			"dealer.",
+			"user",
+			"User",
+			"user",
+			"user.",
+			"user",
+			"saveStatus",
+			"this",
+			"currentObject[type]",
+			"Users",
+			"users",
+			"user",
+			"td",
+			"user",
+			"error_msg",
+			"someArray",
+			"'",
+			"sentData",
+			"data",
+			"return",
+			"row",
+			"index",
+			"editable",
+			"index",
+			"target",
+			"user",
+			"span",
+			"ranking",
+			"Messages",
+			"messages",
+			"Profile",
+			"profile",
+			"home",
+			"Home",
+			"href",
+			"userLogin",
+			"a",
+			"carousel-example-generic",
+			"userLogin",
+			"postCtrl",
+			"struct",
+			"login",
+			"userLogin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dark-blue",
+			"dark-orange",
+			"light-blue",
+			"dark-blue",
+			"dark-orange",
+			"light-blue",
+			"light-gray",
+			"dark-blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 6261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1538.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/index.html",
+					"settings":
+					{
+						"buffer_size": 3896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1505,
+								1505
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"auto_name": "index",
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/assets/scss/components/_base.scss",
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/assets/js/app.js",
+					"settings":
+					{
+						"buffer_size": 3279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 206.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/assets/scss/app.scss",
+					"settings":
+					{
+						"buffer_size": 1286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 50.0
+	},
+	"output.sftp":
+	{
+		"height": 125.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"skin/frontend/regisbike/default/scss/layout/_header.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}

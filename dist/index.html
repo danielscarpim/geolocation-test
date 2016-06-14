@@ -1,0 +1,111 @@
+	<!doctype html>
+	<html class="no-js" lang="en" ng-app="GeoLocation">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>GeoLocation</title>
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/app.css">
+
+	</head>
+	<body class="container">
+		<header class="header">
+			<div class="row">
+				<div class="small-12 columns">
+					<h1 id="title">GeoLocation Test</h1>
+				</div>
+			</div>
+		</header>
+		<div class="map-container" ng-controller="mapController">
+			<div id="map"></div>
+		</div>
+
+		<div class="location" ng-controller="locationController">
+			<div class="menu">
+				<div class="row">
+					<div class="small-12 medium-6 columns">
+						<div class="expanded button-group">
+							<a class="button" ng-click="getMyLocation()" id="btnMyLocation"><i class="icon ion-location"></i>My location</a>
+							<a class="button" ng-click="resetMyLocation()" id="btnResetLocation"><i class="icon ion-close"></i>Reset location</a>
+						</div>
+					</div>
+					<div class="small-12 medium-6 columns">
+						<form class="form" ng-submit="getSiteLocation()">
+							<div class="input-group">
+						  		<input ng-model="site" required class="input-group-field input" type="text" placeholder="example.com">
+						  		<div class="input-group-button">
+						    		<button type="submit" class="button submit"><i class="icon ion-earth"></i>Locate</button>
+						  		</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="small-12 columns">
+
+					<h4 class="title-location">Estimated location</h4>
+
+					<table align="center" class="location-table">
+						<thead>
+							<tr>
+								<td></td>
+								<td>Your Location</td>
+								<td>Website Location</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="field_name">IP<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.query}}</td>
+								<td class="location_value">{{siteLocation.query}}</td>
+							</tr>
+							<tr>
+								<td class="field_name">Country<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.country}}</td>
+								<td class="location_value">{{siteLocation.country}}</td>
+							</tr>
+							<tr>
+								<td class="field_name">Region<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.regionName}}</td>
+								<td class="location_value">{{siteLocation.regionName}}</td>
+							</tr>
+							<tr>
+								<td class="field_name">City<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.city}}</td>
+								<td class="location_value">{{siteLocation.city}}</td>
+							</tr>
+							<tr>
+								<td class="field_name">Time Zone<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.timezone}}</td>
+								<td class="location_value">{{siteLocation.timezone}}</td>
+							</tr>
+							<tr>
+								<td class="field_name">Latitude<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.lat}}</td>
+								<td class="location_value">{{siteLocation.lat}}</td>
+							</tr>
+							<tr>
+								<td class="field_name">Longitude<i class="icon ion-help"></i></td>
+								<td class="location_value">{{myLocation.lon}}</td>
+								<td class="location_value">{{siteLocation.lon}}</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="row">
+				<div class="small-12 columns">
+					By - <a href="http://danielscarpim.com.br" alt="Daniel Scarpim">Daniel Scarpim</a>
+				</div>
+			</div>
+		</footer>
+
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+		<script src="js/app.js"></script>
+	</body>
+</html>
